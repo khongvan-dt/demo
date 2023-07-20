@@ -1,0 +1,456 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    background-color: #f1f1f12b;
+  }
+  
+  .header2 {
+    justify-content: center;
+    display: flex;
+    gap: 200px;
+  }
+  
+  .b1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header {
+    margin: 0 auto;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 9999;
+      background: #eff1eb;
+  }
+  
+  .wrapper-menu {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .menu {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    flex-direction: column;
+  }
+  
+  .style-scope {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .fa-solid {
+    margin-top: 35px;
+  }
+  
+  #font {
+    margin: 0 auto;
+  }
+  
+  .h1 {
+    font-family: "Ruslan Display", cursive;
+    margin-top: 23px;
+  }
+  
+  .input {
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  .input2 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  .font2 {
+    border: 0;
+    color: #626262;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-decoration: none;
+  }
+  
+  .photoshop {
+    width: 100%;
+    height: 400px;
+    margin-top: 50px;
+  }
+  .store {
+    width: 350px;
+    height: 350px;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+  .canho {
+    width: 350px;
+    height: 350px;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+  
+  .intro {
+    display: flex;
+    gap: 30px;
+    border-top: 1px solid rgb(233, 222, 70);
+    width: 80%;
+    margin-left: 100px;
+  }
+  a{
+    color: gray;
+  }
+  .text-intro {
+    margin-top: 150px;
+  }
+  
+  .text-header {
+    display: grid;
+  }
+  
+  .text-header h2 {
+    color: red;
+    margin-left: 200px;
+  }
+  
+  .text-header p {
+    margin-left: 200px;
+    color: rgb(9, 8, 83);
+    font-size: 15px;
+  }
+  
+  .intro2 {
+    display: flex;
+    width: 85%;
+    margin-left: 150px;
+  }
+  
+  .text-intro h2 {
+    color: coral;
+    margin-left: 100px;
+  }
+  .text-intro2 h2 {
+    color: coral;
+    margin-left: 100px;
+  }
+  .text-intro p {
+    font-size: 15px;
+  }
+  
+  .full-width-menu {
+    display: flex;
+    background-color: rgb(212, 210, 210);
+    gap: 20px;
+    width: 100%;
+    font-size: 17px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .home {
+    margin-left: 40px;
+  }
+  
+  .nav-link {
+    margin-top: 8px;
+  }
+  
+  .serve-phto {
+    width: 550px;
+    height: 400px;
+    margin-left: 360px;
+  }
+  
+  .serve {
+    margin-top: 100px;
+    display: grid;
+    width: 90%;
+  }
+  .text-intro2 {
+    margin-top: 150px;
+  }
+  .text-serve h2 {
+    color: red;
+    text-align: center;
+  }
+  
+  .text-serve p {
+    font-size: 15px;
+    margin-left: 250px;
+  }
+  
+  
+  #end {
+    border-top: 1px solid #9c9b9b;
+    background-color: rgb(238, 237, 237);
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    position: absolute;
+    /* bottom: 0; */
+  }
+  
+  #end3 {
+    text-align: left;
+  }
+  
+  .header2 {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .b1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .b1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    margin-left: 120px;
+  }
+
+  
+  .input {
+    border: 0;
+    background-color: #e9e9e994;
+    width: 200px;
+    border: none;
+    height: 20px;
+    border-radius: 20px;
+  }
+  
+  h1 {
+    /* color: white; */
+    font-family: "Ruslan Display", cursive;
+  
+    margin-top: 23px;
+  }
+  
+  #font {
+    margin: 0 auto;
+  }
+  
+  .font2 {
+    border: 0;
+    color: #626262;
+    /* background-color: rgb(238, 237, 237); */
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-decoration: none;
+  }
+  
+  .b22 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .me {
+    /* justify-content: center; */
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    align-items: center;
+  }
+  
+  .b33 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .dt {
+    display: none;
+  }
+  .introduce{
+    margin-top: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .mt {
+      display: none;
+    }
+    .dt {
+      display: block;
+    }
+    #font {
+      margin: 0;
+    }
+   
+    .font2 {
+      font-size: 14px;
+    }
+    .b44 {
+      width: 100px;
+    }
+  
+    h1 {
+      text-align: center;
+    }
+   
+    .b1 {
+      display: block;
+    }
+    .logo {
+      margin: auto;
+      display: block;
+    }
+    .input {
+      width: 100px;
+    }
+    .anh1 {
+      width: 400px;
+      height: 243px;
+    }
+    .row3 {
+      /* display: flex; */
+      gap: 0;
+    }
+    .pp2 {
+      width: 370px;
+      height: 300px;
+      object-fit: cover;
+    }
+    .row2 {
+      display: block;
+    }
+    .pp3 {
+      width: 370px;
+      height: 300px;
+    }
+    .m02 {
+      display: flex;
+      gap: 20px;
+    }
+    .bewen {
+      margin: 0;
+      margin-top: 10px;
+    }
+    .bewen2 {
+      margin: 0;
+      margin-top: 40px;
+    }
+    .anh01 {
+      width: 390px;
+      height: 260px;
+    }
+    .bewen4 {
+      margin: 0;
+      width: 350px;
+      height: 250px;
+    }
+    .bewen3 {
+      margin-top: 10px;
+    }
+    .b3 {
+      margin: 0;
+      padding: 0;
+      margin-top: 10px;
+      margin-left: 10px;
+    }
+    .bewen5 {
+      margin-top: 10px;
+    }
+    .img10 {
+      width: 100%;
+      height: 400px;
+    }
+    .b4 {
+      width: 100%;
+      margin-top: 10px;
+      text-align: center;
+    }
+    .anh4 {
+      display: none;
+    }
+  }
+  
+  @media (max-width: 568px) {
+    .font2 {
+      font-size: 10px;
+    }
+  
+    .header2 {
+      gap: 15px;
+    }
+  
+    .logo {
+      padding: 10px;
+    }
+    .full-width-menu {
+      width: 97%;
+      font-size: 17px;
+      padding: 10px;
+    }
+    .text-header p {
+      margin-left: 100px;
+      font-size: 12px;
+    }
+    .canho {
+      width: 300px;
+      height: 300px;
+      margin-left: 0px;
+      margin-top: 50px;
+    }
+    .text-intro {
+      margin: 0;
+    }
+    .intro2 {
+      display: flex;
+      width: 75%;
+      margin-left: 100px;
+    }
+    .store {
+      width: 300px;
+      height: 300px;
+      margin-left: 100px;
+      margin-top: 250px;
+    }
+    .text-intro2 {
+      margin-top: 50px;
+    }
+    .serve-phto {
+      width: 300px;
+      height: 200px;
+      margin-left: 150px;
+    }
+    .text-serve h2 {
+      font-size: 20px;
+    }
+    .text-serve p {
+      font-size: 10px;
+      margin-left: 100px;
+    }
+    .serve {
+      width: 80%;
+    }
+    .store {
+      width: 250px;
+      height: 250px;
+      margin-top: 100px;
+    }
+    .text-intro2 {
+      margin-top: 50px;
+      font-size: 10px;
+    }
+    .intro2 {
+      display: flex;
+      /* width: 60%; */
+      margin-left: 20px;
+    }
+  }
+  

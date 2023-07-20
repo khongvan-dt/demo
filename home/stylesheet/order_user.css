@@ -1,0 +1,310 @@
+h2 {
+  text-align: center;
+  padding: 40px;
+  margin-top: 60px;
+}
+.post {
+  text-align: right;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #f1f1f12b;
+}
+
+.header2 {
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
+.table {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+  border-right: 1px solid #dee2e6;
+  font-family: -webkit-body;
+  border-left: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+}
+.b1 {
+  display: flex;
+  align-items: center;
+}
+
+.b1 {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 120px;
+}
+
+.header {
+  margin: 0 auto;
+}
+.body2{
+  margin-top: 130px;
+}
+.input {
+  border: 0;
+  background-color: #e9e9e994;
+  width: 200px;
+  border: none;
+  height: 40px;
+  border-radius: 20px;
+}
+
+h1 {
+  /* color: white; */
+  font-family: "Ruslan Display", cursive;
+
+  margin-top: 23px;
+}
+
+#font {
+  margin: 0 auto;
+}
+
+.font2 {
+  border: 0;
+  color: #626262;
+  /* background-color: rgb(238, 237, 237); */
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-decoration: none;
+}
+
+.b22 {
+  display: flex;
+  align-items: center;
+}
+
+.me {
+  /* justify-content: center; */
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  align-items: center;
+}
+
+.b33 {
+  display: flex;
+  align-items: center;
+}
+
+.dt {
+  display: none;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #f1f1f12b;
+}
+
+.header2 {
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
+
+.b1 {
+  display: flex;
+  align-items: center;
+}
+
+.b1 {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 120px;
+}
+
+.header {
+  margin: 0 auto;
+}
+
+.input {
+  border: 0;
+  background-color: #e9e9e994;
+  width: 200px;
+  border: none;
+  height: 40px;
+  border-radius: 20px;
+}
+
+h1 {
+  /* color: white; */
+  font-family: "Ruslan Display", cursive;
+
+  margin-top: 23px;
+}
+
+#font {
+  margin: 0 auto;
+}
+
+.font2 {
+  border: 0;
+  color: #626262;
+  /* background-color: rgb(238, 237, 237); */
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-decoration: none;
+}
+
+.b22 {
+  display: flex;
+  align-items: center;
+}
+
+.me {
+  /* justify-content: center; */
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  align-items: center;
+}
+
+.b33 {
+  display: flex;
+  align-items: center;
+}
+
+.dt {
+  display: none;
+}
+#end {
+  border-top: 1px solid #9c9b9b;
+  background-color: rgb(238, 237, 237);
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  position: absolute;
+  margin-top: 50px;
+  bottom: 0;
+}
+
+#end3 {
+  text-align: left;
+}
+.ctn {
+  margin: 0 auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  background: #eff1eb;
+}
+@media (max-width: 768px) {
+  .mt {
+    display: none;
+  }
+  .dt {
+    display: block;
+  }
+  #font {
+    margin: 0;
+  }
+
+  .font2 {
+    font-size: 14px;
+  }
+  .b44 {
+    width: 100px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  .menu {
+    /* justify-content: center; */
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    align-items: center;
+  }
+  .b1 {
+    display: block;
+  }
+  .logo {
+    margin: auto;
+  }
+  .input {
+    width: 100px;
+  }
+  .anh1 {
+    width: 400px;
+    height: 243px;
+  }
+  .row3 {
+    /* display: flex; */
+    gap: 0;
+  }
+  .pp2 {
+    width: 370px;
+    height: 300px;
+    object-fit: cover;
+  }
+  .row2 {
+    display: block;
+  }
+  .pp3 {
+    width: 370px;
+    height: 300px;
+  }
+  .m02 {
+    display: flex;
+    gap: 20px;
+  }
+  .bewen {
+    margin: 0;
+    margin-top: 10px;
+  }
+  .bewen2 {
+    margin: 0;
+    margin-top: 40px;
+  }
+  .anh01 {
+    width: 390px;
+    height: 260px;
+  }
+  .bewen4 {
+    margin: 0;
+    width: 350px;
+    height: 250px;
+  }
+  .bewen3 {
+    margin-top: 10px;
+  }
+  .b3 {
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .bewen5 {
+    margin-top: 10px;
+  }
+  .img10 {
+    width: 100%;
+    height: 400px;
+  }
+  .b4 {
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .anh4 {
+    display: none;
+  }
+  #end {
+    bottom: auto;
+  }
+}

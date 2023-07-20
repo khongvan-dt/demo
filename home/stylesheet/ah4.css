@@ -1,0 +1,68 @@
+.picture3{
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 100px;
+    
+}
+.big3{
+    width:365px;
+    height:365px;
+    
+}
+.row4{
+    background-color: white;
+    margin-top: 5px;
+    
+}
+.star{
+    width:70px;
+}
+.small3{
+    width:84px;
+    height:84px;
+    margin-top: 5px;
+}
+/* .review{
+    display:flex;
+    gap:50px;
+} */
+.Evaluate2{
+    margin-top: 80px;
+    
+}
+.title5{
+    text-align: center;
+}
+.comments2{
+    margin-top: 20px;
+    display: flex;
+    gap:30px;
+    width: 100%;
+    font-size: 17px;
+    padding:10px;
+  
+}
+.introduce2{
+    margin-left: 10px;
+    
+}
+
+.tuho{
+    display: flex;
+    margin-top: 20px;
+    gap:10px;
+}
+@media (max-width: 992px) {
+    .review{
+        gap: 10px;
+        display: flex;
+        grid-template-columns: auto auto;
+    }
+    .small2{
+        width: 85px;
+        height: 85px;
+    }
+    
+}
+
+

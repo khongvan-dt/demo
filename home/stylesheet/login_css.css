@@ -1,0 +1,73 @@
+.title {
+  text-align: center;
+  border-bottom: 2px solid rgb(242, 155, 48);
+}
+.title h2{
+  color: rgb(242, 155, 48);
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  background-color: white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #f1f1f12b;
+}
+h1{
+  font-family: "Ruslan Display", cursive;
+}
+.header2 {
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url('./pexels-max-rahubovskiy-7195570.jpg') ;
+    background-size: cover;
+}
+a{
+    color: rgb(108, 139, 240);
+
+}
+.container {
+  margin: 0 auto;
+  width: 600px;
+  padding: 16px;
+  border: 1px solid #e4e1e1;
+  margin-top: 150px;
+  background-color: #e4e1e1;
+}
+
+.login p button {
+  background-color: rgb(242, 155, 48);
+  border: none;
+  border-radius: 4px;
+  color: #080707;
+  height: 36px;
+  width: 100px;
+}
+
+.login {
+  text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+  .container {
+    padding: 10px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+}

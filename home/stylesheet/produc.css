@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.padding1 {
+  padding: 20px;
+}
+.highlight2 {
+  position: absolute;
+  right: 0px;
+  width: 350px;
+}
+.product-card {
+  padding: 10px;
+  width: 200px;
+  position: relative;
+  box-shadow: 0 2px 7px #dfdfdf;
+  background: #fafafa;
+}
+
+.product-tumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* padding: 50px; */
+  background: #f0f0f0;
+}
+
+.butun {
+  display: flex;
+  gap: 20px;
+}
+.name{
+    text-align: center;
+}
+.product-tumb img {
+  width: 180px;
+  height: 180px;
+}
+
+.product-details h6 a {
+  font-weight: 500;
+  display: block;
+  margin-bottom: 18px;
+  text-transform: uppercase;
+  color: #363636;
+  text-decoration: none;
+  transition: 0.3s;
+  text-align: center;
+}
+
+.product-details h6 a:hover {
+  color: #fbb72c;
+}
+
+.product-bottom-details {
+  height: 104px;
+  overflow: hidden;
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+}
+
+.product-price {
+  font-size: 18px;
+  color: #fbb72c;
+  font-weight: 600;
+}
+
+.product-links {
+  text-align: right;
+}
